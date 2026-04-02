@@ -19,4 +19,8 @@ faiss-cpu
 sentence_transformers
 langchain_google_genai
 langchain_groq
+langchain_core
+langchain_text_splitters
+youtube-search
+langchain_tavily
  
